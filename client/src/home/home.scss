@@ -1,4 +1,6 @@
 .home{
     color: white;
     background-color: var(--main-color);
+    // to not see on the other side of the page
+    overflow: hidden;
 }
